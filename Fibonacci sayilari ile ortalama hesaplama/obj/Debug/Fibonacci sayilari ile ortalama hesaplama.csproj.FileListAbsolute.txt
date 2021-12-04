@@ -1,0 +1,7 @@
+C:\Users\ibrah\Desktop\Kodlama Calismalari\Yeni GitHub Projeleri\Fibonacci sayilari ile ortalama hesaplama\bin\Debug\Fibonacci sayilari ile ortalama hesaplama.exe.config
+C:\Users\ibrah\Desktop\Kodlama Calismalari\Yeni GitHub Projeleri\Fibonacci sayilari ile ortalama hesaplama\bin\Debug\Fibonacci sayilari ile ortalama hesaplama.exe
+C:\Users\ibrah\Desktop\Kodlama Calismalari\Yeni GitHub Projeleri\Fibonacci sayilari ile ortalama hesaplama\bin\Debug\Fibonacci sayilari ile ortalama hesaplama.pdb
+C:\Users\ibrah\Desktop\Kodlama Calismalari\Yeni GitHub Projeleri\Fibonacci sayilari ile ortalama hesaplama\obj\Debug\Fibonacci sayilari ile ortalama hesaplama.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\Kodlama Calismalari\Yeni GitHub Projeleri\Fibonacci sayilari ile ortalama hesaplama\obj\Debug\Fibonacci sayilari ile ortalama hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\Kodlama Calismalari\Yeni GitHub Projeleri\Fibonacci sayilari ile ortalama hesaplama\obj\Debug\Fibonacci sayilari ile ortalama hesaplama.exe
+C:\Users\ibrah\Desktop\Kodlama Calismalari\Yeni GitHub Projeleri\Fibonacci sayilari ile ortalama hesaplama\obj\Debug\Fibonacci sayilari ile ortalama hesaplama.pdb
